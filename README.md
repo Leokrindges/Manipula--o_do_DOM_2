@@ -2,4 +2,4 @@
 setAttribute, aplicando as alterações necessárias para que fique
 semelhante a imagem abaixo.</p>
 
-![Modelo] (<img src="./assets/tela.png" alt="Modelo">)
+![Modelo] <img src="./assets/tela.png" alt="Modelo">
